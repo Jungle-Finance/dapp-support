@@ -8,5 +8,5 @@ Jungle Finance will never ask you for you seed phrase or private key! Anyone ask
 
 ## Before You Post
 
-Remember to supply etiquette information pertaining to your bug report or feature request template. 
+Remember to supply any information pertaining to your bug report or feature request template. 
 
